@@ -2,11 +2,10 @@
 This is an implementation of the Double Metaphone algorithm in Swift. The algorithm was originally coded by Lawrence Philips.
 
 
-
-### Setting up with [CocoaPods](http://cocoapods.org/?q=DoubleMetaphoneSwift)
+## Installation
+DoubleMetaphoneSwift can be installed with the Swift Package Manager:
 ```ruby
-source 'https://github.com/CocoaPods/Specs.git'
-pod 'DoubleMetaphoneSwift', '~> 0.0.1'
+https://github.com/Codelaby/DoubleMetaphoneSwift.git
 ```
 
 ## Usage
